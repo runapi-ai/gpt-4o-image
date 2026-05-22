@@ -16,9 +16,6 @@
 
 [![skills.sh](https://www.skills.sh/b/runapi-ai/gpt-4o-image)](https://www.skills.sh/runapi-ai/gpt-4o-image/gpt-4o-image)
 [![ClawHub](https://img.shields.io/badge/ClawHub-runapi--gpt--4o--image-111827)](https://clawhub.ai/runapi-ai/runapi-gpt-4o-image)
-[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/gpt-4o-image)
-[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
-[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
 [![License](https://img.shields.io/github/license/runapi-ai/gpt-4o-image)](https://github.com/runapi-ai/gpt-4o-image/blob/main/LICENSE)
 
 </div>
