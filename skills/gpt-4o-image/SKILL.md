@@ -4,6 +4,17 @@ description: Generate images with GPT-4o Image text-to-image through RunAPI.ai u
 documentation: https://runapi.ai/models/gpt-4o-image
 provider_page: https://runapi.ai/providers/openai
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/gpt-4o-image
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 # @runapi.ai/gpt-4o-image -- RunAPI.ai GPT-4o Image generation
 
@@ -19,7 +30,7 @@ npm install @runapi.ai/gpt-4o-image
 
 ```dotenv
 # .env
-RUNAPI_API_KEY=runapi_xxx   # get one at https://runapi.ai/settings/api_keys
+RUNAPI_API_KEY=runapi_xxx   # get one at https://runapi.ai/api_keys
 ```
 
 ```ts
@@ -60,6 +71,6 @@ All errors are re-exported from `@runapi.ai/core`. Use `instanceof` checks inste
 gpt-4o image api public links use the API-379 catalog route map. The main gpt-4o image api page is https://runapi.ai/models/gpt-4o-image. SDK docs live at https://runapi.ai/docs#sdk-gpt-4o-image and product docs live at https://runapi.ai/docs#gpt-4o-image.
 
 Pricing, rate limits, and commercial usage for gpt-4o image api should point to the most specific variant page:
-- [GPT-4o Image](https://runapi.ai/models/gpt-4o-image/gpt-4o-image)
+- [GPT-4o Image](https://runapi.ai/models/gpt-4o-image)
 
 Compare GPT-4o Image with other OpenAI models at https://runapi.ai/providers/openai. Browse every RunAPI model and skill at https://runapi.ai/models. SDK repository: https://github.com/runapi-ai/gpt-4o-image-sdk. Skill repository: https://github.com/runapi-ai/gpt-4o-image.

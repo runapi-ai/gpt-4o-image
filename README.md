@@ -1,5 +1,7 @@
 # GPT-4o Image API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/gpt-4o-image)](https://skills.sh/runapi-ai/gpt-4o-image)
+
 Generate images with GPT-4o Image text-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate GPT-4o Image through RunAPI.
 
 The canonical agent file is `skills/gpt-4o-image/SKILL.md`.
@@ -31,13 +33,13 @@ const url = result.images[0].url;
 - Product docs: https://runapi.ai/docs#gpt-4o-image
 - SDK docs: https://runapi.ai/docs#sdk-gpt-4o-image
 - SDK repository: https://github.com/runapi-ai/gpt-4o-image-sdk
-- Pricing and rate limits: https://runapi.ai/models/gpt-4o-image/gpt-4o-image
+- Pricing and rate limits: https://runapi.ai/models/gpt-4o-image
 - Provider comparison: https://runapi.ai/providers/openai
 - Browse all RunAPI models and skills: https://runapi.ai/models
 
 ## Variants
 
-- [GPT-4o Image](https://runapi.ai/models/gpt-4o-image/gpt-4o-image)
+- [GPT-4o Image](https://runapi.ai/models/gpt-4o-image)
 
 ## Agent rules
 
