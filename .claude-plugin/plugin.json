@@ -1,6 +1,6 @@
 {
   "name": "gpt-4o-image",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "RunAPI GPT-4o Image skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
   "skills": [
     {
