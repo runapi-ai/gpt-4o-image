@@ -1,6 +1,23 @@
-# GPT-4o Image API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/gpt-4o-image">
+    <h3 align="center">GPT-4o Image API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect GPT-4o Image fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/gpt-4o-image.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/gpt-4o-image"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/gpt-4o-image-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/gpt-4o-image)](https://skills.sh/runapi-ai/gpt-4o-image)
+
+</div>
+<br/>
 
 Generate images with GPT-4o Image text-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate GPT-4o Image through RunAPI.
 
